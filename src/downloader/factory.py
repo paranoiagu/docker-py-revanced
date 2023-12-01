@@ -33,7 +33,7 @@ class DownloaderFactory(object):
         """
         if apk_source.startswith(GITHUB_BASE_URL):
             return Github(config)
-        if apk_source.startswith(APK_PURE_BASE_URL):
+        if apk_source.startswith(APK_PURE_BASE_APK_URL):
             return ApkPure(config)
         if apk_source.startswith(APKS_SOS_BASE_URL):
             return ApkSos(config)
