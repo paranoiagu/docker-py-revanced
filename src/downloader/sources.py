@@ -67,7 +67,7 @@ apk_sources = {
     "vanced": f"{APK_MIRROR_BASE_APK_URL}/team-vanced/youtube-vanced/",
     "tumblr": f"{APK_MIRROR_BASE_APK_URL}/tumblr-inc/tumblr/",
     "my-expenses": UPTODOWN_BASE_URL.format("my-expenses"),
-    "spotify": UPTODOWN_BASE_URL.format("spotify"),
+    "spotify": APK_PURE_URL,
     "androidtwelvewidgets": APK_PURE_URL,
     "reddit-news": APK_PURE_URL,
     "expensemanager": APK_SOS_URL,
