@@ -10,7 +10,7 @@ from src.downloader.google_drive import GoogleDrive
 from src.downloader.sources import (
     APK_MIRROR_BASE_URL,
     APK_MONK_BASE_URL,
-    APK_PURE_BASE_URL,
+    APK_PURE_BASE_APK_URL,
     APKS_SOS_BASE_URL,
     DRIVE_DOWNLOAD_BASE_URL,
     GITHUB_BASE_URL,
